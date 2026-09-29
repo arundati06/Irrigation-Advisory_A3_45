@@ -1,0 +1,8 @@
+
+Soil Moisture: 35%
+Temperature: 30 C
+Irrigation: Required
+
+Soil Moisture: 55%
+Temperature: 40 C
+Irrigation: Not required
